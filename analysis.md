@@ -8,7 +8,9 @@ The purpose of this analysis is to evaluate the quality of the logistic regressi
 ## Results
 
 Accuracy: how often the model is correct - the ratio of correctly predicted observations to the total number of observations 
+
 Precision: the ratio of correctly predicted positive observations to the total predicted positive observations 
+
 Recall: the ratio of correctly predicted positive observations to all predicted observations for that class
 
 * Machine Learning Model 1:
